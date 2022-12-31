@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3KJZWHkS0wD/b6EIGZhBdREdyU8TN9TsXyHi1kXuqic=",
+  "Hash": "oswck1TRWS+FMNIajZCSpeI9ooNvy3ZSHzGf4zI+su8=",
   "Source": "AppBasicCURDOpeartaions",
   "BasePath": "_content/AppBasicCURDOpeartaions",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\c# sample code\\demo projects\\DemoApp1\\AppBasicCURDOpeartaions\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppBasicCURDOpeartaions.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\c# sample code\\demo projects\\DemoApp1\\AppBasicCURDOpeartaions\\wwwroot\\css\\QuartzTheme.css",
+      "SourceId": "AppBasicCURDOpeartaions",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c# sample code\\demo projects\\DemoApp1\\AppBasicCURDOpeartaions\\wwwroot\\",
+      "BasePath": "_content/AppBasicCURDOpeartaions",
+      "RelativePath": "css/QuartzTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\QuartzTheme.css"
     },
     {
       "Identity": "D:\\c# sample code\\demo projects\\DemoApp1\\AppBasicCURDOpeartaions\\wwwroot\\css\\site.css",

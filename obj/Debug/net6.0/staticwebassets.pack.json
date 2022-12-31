@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AppBasicCURDOpeartaions.bundle.scp.css"
     },
     {
+      "Id": "D:\\c# sample code\\demo projects\\DemoApp1\\AppBasicCURDOpeartaions\\wwwroot\\css\\QuartzTheme.css",
+      "PackagePath": "staticwebassets\\css\\QuartzTheme.css"
+    },
+    {
       "Id": "D:\\c# sample code\\demo projects\\DemoApp1\\AppBasicCURDOpeartaions\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
